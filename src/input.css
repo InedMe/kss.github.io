@@ -2,13 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
 body {
-    font-family:Arial, Helvetica, sans-serif;
+  font-family: 'Cormorant' sans-serif;
 }
 
 /* Navbar 1 */
 .navbar-fixed {
-  @apply flex z-50 bg-gray-50 bg-opacity-70;
+  @apply flex z-50 bg-white bg-opacity-70;
   backdrop-filter: blur(5px);
   box-shadow: inset 0 -1px 0 0 rgb(107, 75, 75);
 }

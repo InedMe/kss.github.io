@@ -1,0 +1,12 @@
+tailwind
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+github
+
+git add .
+
+git commit -m 'update'
+
+git push
+
+<iframe width="1135" height="572" src="https://www.youtube.com/embed/Pi5dUkozDHM" title="PACKING ORDERS : small business on shopee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
